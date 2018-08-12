@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0.5
+Name=Rawsteel Music Player
+Icon=audio-headphones
+Exec=rawsteel-music-player
+Type=Application
+Categories=AudioVideo;Player;
+Terminal=False
+Keywords=Player;Music;Audio;Lyric;BaiJiFeiLong
+
